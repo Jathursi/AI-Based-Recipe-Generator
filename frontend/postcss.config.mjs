@@ -14,7 +14,7 @@ export default {
         '2xl': '1536px', // Larger desktops
       },
       colors: {    // Pure white
-      
+        gr1: '#1B5E20',
       },
     },
   },
